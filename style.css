@@ -1,0 +1,176 @@
+body{
+margin: 0%;
+font-family: 'Roboto Slab', serif;
+
+
+
+}
+
+.herosec{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 750px;
+    
+
+}
+
+.seca{
+    margin: 5%;
+    
+    width: 39.8%;
+    float: left;
+    
+}
+
+#texthero{
+    margin-right: -7%;
+    margin-top: 20%;
+}
+
+.seca img{
+    width: 100%;
+
+}
+
+.header1{
+    font-size: 100px;
+    margin-top: -60px;
+    color: rgb(255, 230, 7);
+}
+
+.header3{
+    font-size: 48px;
+    color: rgb(44, 43, 43);
+}
+
+.parahero{
+    font-size: 20px;
+    margin-top: -70px;
+    color: rgb(39, 39, 39);
+}
+
+#hirebtn{
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: rgb(255, 230, 7);
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(44, 43, 43);
+    border: transparent;
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 10px;
+    margin-top: 10px;
+
+
+}
+
+
+.biosec{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    height: 700px;
+    
+   
+    
+}
+
+
+.parabio{
+    font-size: 20px;
+    margin-top: -30px;
+    color: rgb(39, 39, 39);
+}
+
+
+
+.textsec3{
+    color: rgb(44, 43, 43);
+    text-align: center;
+    margin: 100px;
+}
+
+
+.imgsec3{
+    margin-left: 4%;
+
+}
+
+#latimg1{
+    width: 26%;
+    margin-right: 2%;
+    float: left;
+    padding: 30px;
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 10px;
+}
+
+#latimg2{
+    width: 26%;
+    margin-right: 2%;
+    float: left;
+    padding: 30px;
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 10px;
+    
+}
+
+#latimg3{
+    width: 26%;
+    margin-right: 2%;
+    padding: 30px;
+    float: left;
+    padding: 30px;
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 10px;
+        
+}
+
+
+
+
+.latbackimg{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 480px;
+}
+
+.footertext{
+    text-align: center;
+}
+
+.footercta{
+    background-color: rgb(255, 230, 7);
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 60px;
+}
+
+.footerh{
+    background-image: url(images/footer-bg.png);
+    height: 550px;
+    width: 100%;
+}
+
+#Boombaam{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.hedsec{
+    margin: 80px;
+    font-size: 36px;
+}
+
+#he5{
+    color: rgb(102, 101, 101);
+    margin-top: -10px;
+}
+
+#biohead{
+    color: rgb(255, 230, 7);
+}
